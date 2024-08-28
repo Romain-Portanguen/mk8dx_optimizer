@@ -22,13 +22,9 @@ export class ConfigurationScorer implements IConfigurationScorer {
 
   getMaxPossibleScore(raceProfile: string): number {
     const weights = this.getWeights(raceProfile);
-    let maxScore = 0;
-
-    for (const [key, weight] of Object.entries(weights)) {
-      maxScore += this.MAX_STAT * weight;
-    }
-
-    maxScore *= this.calculateSynergyBonus({ 
+    const maxScore = Object.values(weights).reduce((sum, weight) => sum + this.MAX_STAT * weight, 0);
+  
+    const maxStats: Statistics = {
       Weight: this.MAX_STAT,
       Acceleration: this.MAX_STAT,
       'On-Road traction': this.MAX_STAT,
@@ -43,9 +39,9 @@ export class ConfigurationScorer implements IConfigurationScorer {
       'Anti-Gravity Handling': this.MAX_STAT,
       'Air Handling': this.MAX_STAT,
       Invincibility: this.MAX_STAT
-    });
-
-    return maxScore;
+    };
+  
+    return maxScore * this.calculateSynergyBonus(maxStats);
   }
 
   private getCacheKey(driver: Driver, configuration: Configuration, raceProfile: string): string {
