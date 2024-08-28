@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { OptimalConfigurationFinder } from './services/optimal-configuration-finder';
 import { ConfigurationScorer } from './services/configuration-scorer';
 import { JsonDataRepository } from './services/json-data-repository';
-import { ResultDisplay } from './components/ResultsDisplay';
+import { ResultDisplay } from './utils/ResultsDisplay';
 import { Configuration } from './types/configuration.types';
 import { FaCar, FaCog } from 'react-icons/fa';
 import { CustomSelect } from './components/CustomSelect';
@@ -35,7 +35,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-400 to-blue-600 p-4 sm:p-6 lg:p-8">
-      <div className="max-w-4xl mx-auto bg-white rounded-xl shadow-lg overflow-hidden">
+      <div className="max-w-4xl mx-auto bg-white rounded-xl shadow-lg overflow-hidden min-h-[500px]">
         <div className="p-4 sm:p-6 lg:p-8">
           <h1 className="text-xl sm:text-2xl font-bold text-indigo-600 mb-1">[MK8DX]</h1>
           <h2 className="text-2xl sm:text-3xl font-extrabold text-gray-900 mb-2">Kart Configuration Optimizer</h2>
