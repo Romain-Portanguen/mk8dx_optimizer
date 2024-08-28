@@ -1,0 +1,289 @@
+{
+  "gliders": [
+    {
+      "name": "Super Glider",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 1,
+        "On-Road traction": 1,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 1,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 0,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Cloud Glider",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 2,
+        "Ground Speed": 0,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 2,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Wario Wing",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 1,
+        "On-Road traction": 2,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 1,
+        "Ground Speed": 1,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 1,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Waddle Wing",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 1,
+        "On-Road traction": 1,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 1,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 0,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Peach Parasol",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 2,
+        "On-Road traction": 2,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 2,
+        "Ground Speed": 0,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 2,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Parachute",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 2,
+        "Ground Speed": 0,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 2,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Parafoil",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 2,
+        "On-Road traction": 2,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 2,
+        "Ground Speed": 0,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 2,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Flower Glider",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 2,
+        "Ground Speed": 0,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 2,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Bowser Kite",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 2,
+        "On-Road traction": 2,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 2,
+        "Ground Speed": 0,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 2,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Plane Glider",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 1,
+        "On-Road traction": 2,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 1,
+        "Ground Speed": 1,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 1,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "MKTV Parafoil",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 2,
+        "On-Road traction": 2,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 2,
+        "Ground Speed": 0,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 2,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Gold Glider",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 1,
+        "On-Road traction": 2,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 1,
+        "Ground Speed": 1,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 1,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Hylian Kite",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 1,
+        "On-Road traction": 1,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 1,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 0,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Paper Glider",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 2,
+        "Ground Speed": 0,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 2,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Paraglider",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 1,
+        "On-Road traction": 2,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 1,
+        "Ground Speed": 1,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 1,
+        "Invincibility": 1
+      }
+    }
+  ]
+}

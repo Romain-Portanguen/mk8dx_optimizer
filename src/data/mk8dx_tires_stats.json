@@ -1,0 +1,431 @@
+{
+  "tires": [
+    {
+      "name": "Standard",
+      "alternativeName": "Normal",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 4,
+        "Ground Speed": 2,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Monster",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 2,
+        "On-Road traction": 3,
+        "Off-Road Traction": 7,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 1,
+        "Ground Handling": 0,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 1,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Roller",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 6,
+        "On-Road traction": 0,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 6,
+        "Ground Speed": 0,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 0,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 4,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Slim",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 2,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 4,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Slick",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 1,
+        "On-Road traction": 4,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 2,
+        "Ground Speed": 4,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 0,
+        "Ground Handling": 2,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 1,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Metal",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 0,
+        "On-Road traction": 1,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 2,
+        "Ground Speed": 4,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 2,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 0,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Button",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 5,
+        "On-Road traction": 1,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 5,
+        "Ground Speed": 1,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 2,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 2,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Off-Road",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 3,
+        "On-Road traction": 3,
+        "Off-Road Traction": 6,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 2,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Sponge",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 6,
+        "Mini-Turbo": 5,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 4,
+        "Ground Handling": 2,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Wood",
+      "alternativeName": "Wooden",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 2,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 4,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Cushion",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 6,
+        "Mini-Turbo": 5,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 4,
+        "Ground Handling": 2,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 3,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Blue Standard",
+      "alternativeName": "Normal Blue",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 4,
+        "Ground Speed": 2,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Hot Monster",
+      "alternativeName": "Funky Monster",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 2,
+        "On-Road traction": 3,
+        "Off-Road Traction": 7,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 1,
+        "Ground Handling": 0,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 1,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Azure Roller",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 6,
+        "On-Road traction": 0,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 6,
+        "Ground Speed": 0,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 0,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 4,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Crimson Slim",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 2,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 4,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Cyber Slick",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 1,
+        "On-Road traction": 4,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 2,
+        "Ground Speed": 4,
+        "Water Speed": 0,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 0,
+        "Ground Handling": 2,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 1,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Retro Off-Road",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 3,
+        "On-Road traction": 3,
+        "Off-Road Traction": 6,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 2,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Gold Tires",
+      "alternativeName": "Gold Wheels",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 0,
+        "On-Road traction": 1,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 2,
+        "Ground Speed": 4,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 2,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 0,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "GLA Tires",
+      "alternativeName": "GLA Wheels",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 4,
+        "Ground Speed": 2,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Triforce Tires",
+      "alternativeName": "Triforce Tyres",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 3,
+        "On-Road traction": 3,
+        "Off-Road Traction": 6,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 1,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 2,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Leaf Tires",
+      "alternativeName": "Leaf Tyres",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 5,
+        "On-Road traction": 1,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 5,
+        "Ground Speed": 1,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 2,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 2,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Ancient Tires",
+      "alternativeName": "Ancient Tyres",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 2,
+        "On-Road traction": 3,
+        "Off-Road Traction": 7,
+        "Mini-Turbo": 3,
+        "Ground Speed": 3,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 1,
+        "Ground Handling": 0,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 1,
+        "Invincibility": 5
+      }
+    }
+  ]
+}

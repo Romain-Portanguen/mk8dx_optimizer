@@ -1,0 +1,381 @@
+{
+  "speedStats": [
+    {
+      "level": 1,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.475,
+        "Drive_SpdMaxFwd_H": 7.975
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.475,
+        "Float_SpdMaxFwd_H": 7.975
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.475,
+        "SpdMaxFwd_H": 7.975
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.595
+      }
+    },
+    {
+      "level": 2,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.5,
+        "Drive_SpdMaxFwd_H": 8.0
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.5,
+        "Float_SpdMaxFwd_H": 8.0
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.5,
+        "SpdMaxFwd_H": 8.0
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.64
+      }
+    },
+    {
+      "level": 3,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.525,
+        "Drive_SpdMaxFwd_H": 8.025
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.525,
+        "Float_SpdMaxFwd_H": 8.025
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.525,
+        "SpdMaxFwd_H": 8.025
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.685
+      }
+    },
+    {
+      "level": 4,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.55,
+        "Drive_SpdMaxFwd_H": 8.05
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.55,
+        "Float_SpdMaxFwd_H": 8.05
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.55,
+        "SpdMaxFwd_H": 8.05
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.73
+      }
+    },
+    {
+      "level": 5,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.575,
+        "Drive_SpdMaxFwd_H": 8.075
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.575,
+        "Float_SpdMaxFwd_H": 8.075
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.575,
+        "SpdMaxFwd_H": 8.075
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.775
+      }
+    },
+    {
+      "level": 6,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.6,
+        "Drive_SpdMaxFwd_H": 8.1
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.6,
+        "Float_SpdMaxFwd_H": 8.1
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.6,
+        "SpdMaxFwd_H": 8.1
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.82
+      }
+    },
+    {
+      "level": 7,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.625,
+        "Drive_SpdMaxFwd_H": 8.125
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.625,
+        "Float_SpdMaxFwd_H": 8.125
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.625,
+        "SpdMaxFwd_H": 8.125
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.865
+      }
+    },
+    {
+      "level": 8,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.65,
+        "Drive_SpdMaxFwd_H": 8.15
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.65,
+        "Float_SpdMaxFwd_H": 8.15
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.65,
+        "SpdMaxFwd_H": 8.15
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.91
+      }
+    },
+    {
+      "level": 9,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.675,
+        "Drive_SpdMaxFwd_H": 8.175
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.675,
+        "Float_SpdMaxFwd_H": 8.175
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.675,
+        "SpdMaxFwd_H": 8.175
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 7.955
+      }
+    },
+    {
+      "level": 10,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.7,
+        "Drive_SpdMaxFwd_H": 8.2
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.7,
+        "Float_SpdMaxFwd_H": 8.2
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.7,
+        "SpdMaxFwd_H": 8.2
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.0
+      }
+    },
+    {
+      "level": 11,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.725,
+        "Drive_SpdMaxFwd_H": 8.225
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.725,
+        "Float_SpdMaxFwd_H": 8.225
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.725,
+        "SpdMaxFwd_H": 8.225
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.045
+      }
+    },
+    {
+      "level": 12,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.75,
+        "Drive_SpdMaxFwd_H": 8.25
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.75,
+        "Float_SpdMaxFwd_H": 8.25
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.75,
+        "SpdMaxFwd_H": 8.25
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.09
+      }
+    },
+    {
+      "level": 13,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.775,
+        "Drive_SpdMaxFwd_H": 8.275
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.775,
+        "Float_SpdMaxFwd_H": 8.275
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.775,
+        "SpdMaxFwd_H": 8.275
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.135
+      }
+    },
+    {
+      "level": 14,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.8,
+        "Drive_SpdMaxFwd_H": 8.3
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.8,
+        "Float_SpdMaxFwd_H": 8.3
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.8,
+        "SpdMaxFwd_H": 8.3
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.18
+      }
+    },
+    {
+      "level": 15,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.825,
+        "Drive_SpdMaxFwd_H": 8.325
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.825,
+        "Float_SpdMaxFwd_H": 8.325
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.825,
+        "SpdMaxFwd_H": 8.325
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.225
+      }
+    },
+    {
+      "level": 16,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.85,
+        "Drive_SpdMaxFwd_H": 8.35
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.85,
+        "Float_SpdMaxFwd_H": 8.35
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.85,
+        "SpdMaxFwd_H": 8.35
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.27
+      }
+    },
+    {
+      "level": 17,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.875,
+        "Drive_SpdMaxFwd_H": 8.375
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.875,
+        "Float_SpdMaxFwd_H": 8.375
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.875,
+        "SpdMaxFwd_H": 8.375
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.315
+      }
+    },
+    {
+      "level": 18,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.9,
+        "Drive_SpdMaxFwd_H": 8.4
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.9,
+        "Float_SpdMaxFwd_H": 8.4
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.9,
+        "SpdMaxFwd_H": 8.4
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.36
+      }
+    },
+    {
+      "level": 19,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.925,
+        "Drive_SpdMaxFwd_H": 8.425
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.925,
+        "Float_SpdMaxFwd_H": 8.425
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.925,
+        "SpdMaxFwd_H": 8.425
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.405
+      }
+    },
+    {
+      "level": 20,
+      "ground": {
+        "Drive_SpdMaxFwd_L": 7.95,
+        "Drive_SpdMaxFwd_H": 8.45
+      },
+      "water": {
+        "Float_SpdMaxFwd_L": 7.95,
+        "Float_SpdMaxFwd_H": 8.45
+      },
+      "antiGravity": {
+        "SpdMaxFwd_L": 7.95,
+        "SpdMaxFwd_H": 8.45
+      },
+      "air": {
+        "Wing_SpdMaxFwd_N": 8.45
+      }
+    }
+  ],
+  "default": {
+    "ground": {
+      "Drive_SpdMaxFwd_L": 7.6,
+      "Drive_SpdMaxFwd_H": 8.1
+    },
+    "water": {
+      "Float_SpdMaxFwd_L": 7.6,
+      "Float_SpdMaxFwd_H": 8.1
+    },
+    "antiGravity": {
+      "SpdMaxFwd_L": 7.6,
+      "SpdMaxFwd_H": 8.1
+    },
+    "air": {
+      "Wing_SpdMaxFwd_N": 7.82
+    }
+  }
+}

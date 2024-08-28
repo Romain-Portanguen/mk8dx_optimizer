@@ -1,0 +1,129 @@
+{
+  "weightStats": [
+    {
+      "level": 1,
+      "KartBound_MassL": 6,
+      "KartBound_MassH": 10,
+      "KartBound_MassD": 30
+    },
+    {
+      "level": 2,
+      "KartBound_MassL": 7,
+      "KartBound_MassH": 12,
+      "KartBound_MassD": 30
+    },
+    {
+      "level": 3,
+      "KartBound_MassL": 8,
+      "KartBound_MassH": 14,
+      "KartBound_MassD": 30
+    },
+    {
+      "level": 4,
+      "KartBound_MassL": 9,
+      "KartBound_MassH": 16,
+      "KartBound_MassD": 30
+    },
+    {
+      "level": 5,
+      "KartBound_MassL": 10,
+      "KartBound_MassH": 18,
+      "KartBound_MassD": 45
+    },
+    {
+      "level": 6,
+      "KartBound_MassL": 11,
+      "KartBound_MassH": 20,
+      "KartBound_MassD": 45
+    },
+    {
+      "level": 7,
+      "KartBound_MassL": 12,
+      "KartBound_MassH": 22,
+      "KartBound_MassD": 45
+    },
+    {
+      "level": 8,
+      "KartBound_MassL": 13,
+      "KartBound_MassH": 24,
+      "KartBound_MassD": 45
+    },
+    {
+      "level": 9,
+      "KartBound_MassL": 14,
+      "KartBound_MassH": 26,
+      "KartBound_MassD": 60
+    },
+    {
+      "level": 10,
+      "KartBound_MassL": 16,
+      "KartBound_MassH": 29,
+      "KartBound_MassD": 60
+    },
+    {
+      "level": 11,
+      "KartBound_MassL": 18,
+      "KartBound_MassH": 32,
+      "KartBound_MassD": 60
+    },
+    {
+      "level": 12,
+      "KartBound_MassL": 20,
+      "KartBound_MassH": 35,
+      "KartBound_MassD": 60
+    },
+    {
+      "level": 13,
+      "KartBound_MassL": 22,
+      "KartBound_MassH": 38,
+      "KartBound_MassD": 70
+    },
+    {
+      "level": 14,
+      "KartBound_MassL": 25,
+      "KartBound_MassH": 42,
+      "KartBound_MassD": 70
+    },
+    {
+      "level": 15,
+      "KartBound_MassL": 28,
+      "KartBound_MassH": 46,
+      "KartBound_MassD": 70
+    },
+    {
+      "level": 16,
+      "KartBound_MassL": 31,
+      "KartBound_MassH": 50,
+      "KartBound_MassD": 70
+    },
+    {
+      "level": 17,
+      "KartBound_MassL": 34,
+      "KartBound_MassH": 68,
+      "KartBound_MassD": 80
+    },
+    {
+      "level": 18,
+      "KartBound_MassL": 36,
+      "KartBound_MassH": 72,
+      "KartBound_MassD": 80
+    },
+    {
+      "level": 19,
+      "KartBound_MassL": 38,
+      "KartBound_MassH": 76,
+      "KartBound_MassD": 80
+    },
+    {
+      "level": 20,
+      "KartBound_MassL": 40,
+      "KartBound_MassH": 80,
+      "KartBound_MassD": 80
+    }
+  ],
+  "default": {
+    "KartBound_MassL": 8,
+    "KartBound_MassH": 11,
+    "KartBound_MassD": 40
+  }
+}

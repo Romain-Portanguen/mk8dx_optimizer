@@ -1,0 +1,260 @@
+{
+  "offRoadTractionStats": {
+    "BrakeRt": [
+      {
+        "level": 1,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.981, "SAND_M": 0.981, "SAND_H": 0.981,
+        "ICE_L": 0.971, "ICE_M": 0.971, "ICE_H": 0.971
+      },
+      {
+        "level": 2,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.982, "SAND_M": 0.982, "SAND_H": 0.982,
+        "ICE_L": 0.972, "ICE_M": 0.972, "ICE_H": 0.972
+      },
+      {
+        "level": 3,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.983, "SAND_M": 0.983, "SAND_H": 0.983,
+        "ICE_L": 0.973, "ICE_M": 0.973, "ICE_H": 0.973
+      },
+      {
+        "level": 4,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.984, "SAND_M": 0.984, "SAND_H": 0.984,
+        "ICE_L": 0.974, "ICE_M": 0.974, "ICE_H": 0.974
+      },
+      {
+        "level": 5,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.985, "SAND_M": 0.985, "SAND_H": 0.985,
+        "ICE_L": 0.975, "ICE_M": 0.975, "ICE_H": 0.975
+      },
+      {
+        "level": 6,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.986, "SAND_M": 0.986, "SAND_H": 0.986,
+        "ICE_L": 0.976, "ICE_M": 0.976, "ICE_H": 0.976
+      },
+      {
+        "level": 7,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.987, "SAND_M": 0.987, "SAND_H": 0.987,
+        "ICE_L": 0.977, "ICE_M": 0.977, "ICE_H": 0.977
+      },
+      {
+        "level": 8,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.988, "SAND_M": 0.988, "SAND_H": 0.988,
+        "ICE_L": 0.978, "ICE_M": 0.978, "ICE_H": 0.978
+      },
+      {
+        "level": 9,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.989, "SAND_M": 0.989, "SAND_H": 0.989,
+        "ICE_L": 0.979, "ICE_M": 0.979, "ICE_H": 0.979
+      },
+      {
+        "level": 10,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.99, "SAND_M": 0.99, "SAND_H": 0.99,
+        "ICE_L": 0.98, "ICE_M": 0.98, "ICE_H": 0.98
+      },
+      {
+        "level": 11,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.991, "SAND_M": 0.991, "SAND_H": 0.991,
+        "ICE_L": 0.981, "ICE_M": 0.981, "ICE_H": 0.981
+      },
+      {
+        "level": 12,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.992, "SAND_M": 0.992, "SAND_H": 0.992,
+        "ICE_L": 0.982, "ICE_M": 0.982, "ICE_H": 0.982
+      },
+      {
+        "level": 13,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.993, "SAND_M": 0.993, "SAND_H": 0.993,
+        "ICE_L": 0.983, "ICE_M": 0.983, "ICE_H": 0.983
+      },
+      {
+        "level": 14,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.994, "SAND_M": 0.994, "SAND_H": 0.994,
+        "ICE_L": 0.984, "ICE_M": 0.984, "ICE_H": 0.984
+      },
+      {
+        "level": 15,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.995, "SAND_M": 0.995, "SAND_H": 0.995,
+        "ICE_L": 0.985, "ICE_M": 0.985, "ICE_H": 0.985
+      },
+      {
+        "level": 16,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.996, "SAND_M": 0.996, "SAND_H": 0.996,
+        "ICE_L": 0.986, "ICE_M": 0.986, "ICE_H": 0.986
+      },
+      {
+        "level": 17,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.997, "SAND_M": 0.997, "SAND_H": 0.997,
+        "ICE_L": 0.987, "ICE_M": 0.987, "ICE_H": 0.987
+      },
+      {
+        "level": 18,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.998, "SAND_M": 0.998, "SAND_H": 0.998,
+        "ICE_L": 0.988, "ICE_M": 0.988, "ICE_H": 0.988
+      },
+      {
+        "level": 19,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 0.999, "SAND_M": 0.999, "SAND_H": 0.999,
+        "ICE_L": 0.989, "ICE_M": 0.989, "ICE_H": 0.989
+      },
+      {
+        "level": 20,
+        "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+        "SAND_L": 1, "SAND_M": 1, "SAND_H": 1,
+        "ICE_L": 0.99, "ICE_M": 0.99, "ICE_H": 0.99
+      }
+    ],
+    "SlipRt": [
+      {
+        "level": 1,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.915, "SAND_M": 0.925, "SAND_H": 0.935,
+        "ICE_L": 0.915, "ICE_M": 0.925, "ICE_H": 0.935
+      },
+      {
+        "level": 2,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.914, "SAND_M": 0.924, "SAND_H": 0.934,
+        "ICE_L": 0.914, "ICE_M": 0.924, "ICE_H": 0.934
+      },
+      {
+        "level": 3,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.913, "SAND_M": 0.923, "SAND_H": 0.933,
+        "ICE_L": 0.913, "ICE_M": 0.923, "ICE_H": 0.933
+      },
+      {
+        "level": 4,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.912, "SAND_M": 0.922, "SAND_H": 0.932,
+        "ICE_L": 0.912, "ICE_M": 0.922, "ICE_H": 0.932
+      },
+      {
+        "level": 5,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.911, "SAND_M": 0.921, "SAND_H": 0.931,
+        "ICE_L": 0.911, "ICE_M": 0.921, "ICE_H": 0.931
+      },
+      {
+        "level": 6,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.91, "SAND_M": 0.92, "SAND_H": 0.93,
+        "ICE_L": 0.91, "ICE_M": 0.92, "ICE_H": 0.93
+      },
+      {
+        "level": 7,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.909, "SAND_M": 0.919, "SAND_H": 0.929,
+        "ICE_L": 0.909, "ICE_M": 0.919, "ICE_H": 0.929
+      },
+      {
+        "level": 8,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.908, "SAND_M": 0.918, "SAND_H": 0.928,
+        "ICE_L": 0.908, "ICE_M": 0.918, "ICE_H": 0.928
+      },
+      {
+        "level": 9,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.907, "SAND_M": 0.917, "SAND_H": 0.927,
+        "ICE_L": 0.907, "ICE_M": 0.917, "ICE_H": 0.927
+      },
+      {
+        "level": 10,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.906, "SAND_M": 0.916, "SAND_H": 0.926,
+        "ICE_L": 0.906, "ICE_M": 0.916, "ICE_H": 0.926
+      },
+      {
+        "level": 11,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.905, "SAND_M": 0.915, "SAND_H": 0.925,
+        "ICE_L": 0.905, "ICE_M": 0.915, "ICE_H": 0.925
+      },
+      {
+        "level": 12,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.903, "SAND_M": 0.913, "SAND_H": 0.923,
+        "ICE_L": 0.903, "ICE_M": 0.913, "ICE_H": 0.923
+      },
+      {
+        "level": 13,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.901, "SAND_M": 0.911, "SAND_H": 0.921,
+        "ICE_L": 0.901, "ICE_M": 0.911, "ICE_H": 0.921
+      },
+      {
+        "level": 14,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.899, "SAND_M": 0.909, "SAND_H": 0.919,
+        "ICE_L": 0.899, "ICE_M": 0.909, "ICE_H": 0.919
+      },
+      {
+        "level": 15,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.897, "SAND_M": 0.907, "SAND_H": 0.917,
+        "ICE_L": 0.897, "ICE_M": 0.907, "ICE_H": 0.917
+      },
+      {
+        "level": 16,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.895, "SAND_M": 0.905, "SAND_H": 0.915,
+        "ICE_L": 0.895, "ICE_M": 0.905, "ICE_H": 0.915
+      },
+      {
+        "level": 17,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.885, "SAND_M": 0.895, "SAND_H": 0.905,
+        "ICE_L": 0.885, "ICE_M": 0.895, "ICE_H": 0.905
+      },
+      {
+        "level": 18,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.875, "SAND_M": 0.885, "SAND_H": 0.895,
+        "ICE_L": 0.875, "ICE_M": 0.885, "ICE_H": 0.895
+      },
+      {
+        "level": 19,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.865, "SAND_M": 0.875, "SAND_H": 0.885,
+        "ICE_L": 0.865, "ICE_M": 0.875, "ICE_H": 0.885
+      },
+      {
+        "level": 20,
+        "DIRT_L": 0.95, "DIRT_M": 0.95, "DIRT_H": 0.95,
+        "SAND_L": 0.855, "SAND_M": 0.865, "SAND_H": 0.875,
+        "ICE_L": 0.855, "ICE_M": 0.865, "ICE_H": 0.875
+      }
+    ]
+  },
+  "default": {
+    "BrakeRt": {
+      "DIRT_L": 0.7, "DIRT_M": 0.5, "DIRT_H": 0.3,
+      "SAND_L": 0.981, "SAND_M": 0.981, "SAND_H": 0.981,
+      "ICE_L": 0.981, "ICE_M": 0.981, "ICE_H": 0.981
+    },
+    "SlipRt": {
+      "DIRT_L": 0.75, "DIRT_M": 0.75, "DIRT_H": 0.75,
+      "SAND_L": 0.75, "SAND_M": 0.75, "SAND_H": 0.75,
+      "ICE_L": 0.75, "ICE_M": 0.75, "ICE_H": 0.75
+    }
+  }
+}

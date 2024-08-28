@@ -1,0 +1,465 @@
+{
+  "handlingStats": [
+    {
+      "level": 1,
+      "ground": {
+        "Drive_DirRotH": 0.0065,
+        "Drift_DirRotH": 0.0145,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0085,
+        "Float_Drift_DirRotH": 0.0125,
+        "Float_AutoDrift_ChargeRt": 1.5
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0065,
+        "Drift_DirRotH": 0.0145,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.15,
+        "Wing_StickLR_Move": 0.4
+      }
+    },
+    {
+      "level": 2,
+      "ground": {
+        "Drive_DirRotH": 0.007,
+        "Drift_DirRotH": 0.015,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.009,
+        "Float_Drift_DirRotH": 0.013,
+        "Float_AutoDrift_ChargeRt": 1.5
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.007,
+        "Drift_DirRotH": 0.015,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.155,
+        "Wing_StickLR_Move": 0.41
+      }
+    },
+    {
+      "level": 3,
+      "ground": {
+        "Drive_DirRotH": 0.0075,
+        "Drift_DirRotH": 0.0155,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0095,
+        "Float_Drift_DirRotH": 0.0135,
+        "Float_AutoDrift_ChargeRt": 1.5
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0075,
+        "Drift_DirRotH": 0.0155,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.16,
+        "Wing_StickLR_Move": 0.42
+      }
+    },
+    {
+      "level": 4,
+      "ground": {
+        "Drive_DirRotH": 0.008,
+        "Drift_DirRotH": 0.016,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.01,
+        "Float_Drift_DirRotH": 0.014,
+        "Float_AutoDrift_ChargeRt": 1.5
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.008,
+        "Drift_DirRotH": 0.016,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.165,
+        "Wing_StickLR_Move": 0.43
+      }
+    },
+    {
+      "level": 5,
+      "ground": {
+        "Drive_DirRotH": 0.0085,
+        "Drift_DirRotH": 0.0165,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0105,
+        "Float_Drift_DirRotH": 0.0145,
+        "Float_AutoDrift_ChargeRt": 1.5
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0085,
+        "Drift_DirRotH": 0.0165,
+        "AutoDrift_ChargeRt": 1.5
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.17,
+        "Wing_StickLR_Move": 0.44
+      }
+    },
+    {
+      "level": 6,
+      "ground": {
+        "Drive_DirRotH": 0.009,
+        "Drift_DirRotH": 0.017,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.011,
+        "Float_Drift_DirRotH": 0.015,
+        "Float_AutoDrift_ChargeRt": 1.2
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.009,
+        "Drift_DirRotH": 0.017,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.175,
+        "Wing_StickLR_Move": 0.45
+      }
+    },
+    {
+      "level": 7,
+      "ground": {
+        "Drive_DirRotH": 0.0095,
+        "Drift_DirRotH": 0.0175,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0115,
+        "Float_Drift_DirRotH": 0.0155,
+        "Float_AutoDrift_ChargeRt": 1.2
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0095,
+        "Drift_DirRotH": 0.0175,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.18,
+        "Wing_StickLR_Move": 0.46
+      }
+    },
+    {
+      "level": 8,
+      "ground": {
+        "Drive_DirRotH": 0.01,
+        "Drift_DirRotH": 0.018,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.012,
+        "Float_Drift_DirRotH": 0.016,
+        "Float_AutoDrift_ChargeRt": 1.2
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.01,
+        "Drift_DirRotH": 0.018,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.185,
+        "Wing_StickLR_Move": 0.47
+      }
+    },
+    {
+      "level": 9,
+      "ground": {
+        "Drive_DirRotH": 0.0105,
+        "Drift_DirRotH": 0.0185,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0125,
+        "Float_Drift_DirRotH": 0.0165,
+        "Float_AutoDrift_ChargeRt": 1.2
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0105,
+        "Drift_DirRotH": 0.0185,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.19,
+        "Wing_StickLR_Move": 0.48
+      }
+    },
+    {
+      "level": 10,
+      "ground": {
+        "Drive_DirRotH": 0.011,
+        "Drift_DirRotH": 0.019,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.013,
+        "Float_Drift_DirRotH": 0.017,
+        "Float_AutoDrift_ChargeRt": 1.2
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.011,
+        "Drift_DirRotH": 0.019,
+        "AutoDrift_ChargeRt": 1.2
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.195,
+        "Wing_StickLR_Move": 0.49
+      }
+    },
+    {
+      "level": 11,
+      "ground": {
+        "Drive_DirRotH": 0.0114,
+        "Drift_DirRotH": 0.0193,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0134,
+        "Float_Drift_DirRotH": 0.0173,
+        "Float_AutoDrift_ChargeRt": 0.9
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0114,
+        "Drift_DirRotH": 0.0193,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.2,
+        "Wing_StickLR_Move": 0.5
+      }
+    },
+    {
+      "level": 12,
+      "ground": {
+        "Drive_DirRotH": 0.0118,
+        "Drift_DirRotH": 0.0196,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0138,
+        "Float_Drift_DirRotH": 0.0176,
+        "Float_AutoDrift_ChargeRt": 0.9
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0118,
+        "Drift_DirRotH": 0.0196,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.205,
+        "Wing_StickLR_Move": 0.51
+      }
+    },
+    {
+      "level": 13,
+      "ground": {
+        "Drive_DirRotH": 0.0122,
+        "Drift_DirRotH": 0.0199,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0142,
+        "Float_Drift_DirRotH": 0.0179,
+        "Float_AutoDrift_ChargeRt": 0.9
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0122,
+        "Drift_DirRotH": 0.0199,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.21,
+        "Wing_StickLR_Move": 0.52
+      }
+    },
+    {
+      "level": 14,
+      "ground": {
+        "Drive_DirRotH": 0.0126,
+        "Drift_DirRotH": 0.0202,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0146,
+        "Float_Drift_DirRotH": 0.0182,
+        "Float_AutoDrift_ChargeRt": 0.9
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0126,
+        "Drift_DirRotH": 0.0202,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.215,
+        "Wing_StickLR_Move": 0.53
+      }
+    },
+    {
+      "level": 15,
+      "ground": {
+        "Drive_DirRotH": 0.013,
+        "Drift_DirRotH": 0.0205,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.015,
+        "Float_Drift_DirRotH": 0.0185,
+        "Float_AutoDrift_ChargeRt": 0.9
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.013,
+        "Drift_DirRotH": 0.0205,
+        "AutoDrift_ChargeRt": 0.9
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.22,
+        "Wing_StickLR_Move": 0.54
+      }
+    },
+    {
+      "level": 16,
+      "ground": {
+        "Drive_DirRotH": 0.0132,
+        "Drift_DirRotH": 0.0208,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0152,
+        "Float_Drift_DirRotH": 0.0188,
+        "Float_AutoDrift_ChargeRt": 0.6
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0132,
+        "Drift_DirRotH": 0.0208,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.225,
+        "Wing_StickLR_Move": 0.55
+      }
+    },
+    {
+      "level": 17,
+      "ground": {
+        "Drive_DirRotH": 0.0134,
+        "Drift_DirRotH": 0.0211,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0154,
+        "Float_Drift_DirRotH": 0.0191,
+        "Float_AutoDrift_ChargeRt": 0.6
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0134,
+        "Drift_DirRotH": 0.0211,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.23,
+        "Wing_StickLR_Move": 0.56
+      }
+    },
+    {
+      "level": 18,
+      "ground": {
+        "Drive_DirRotH": 0.0136,
+        "Drift_DirRotH": 0.0214,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0156,
+        "Float_Drift_DirRotH": 0.0194,
+        "Float_AutoDrift_ChargeRt": 0.6
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0136,
+        "Drift_DirRotH": 0.0214,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.235,
+        "Wing_StickLR_Move": 0.57
+      }
+    },
+    {
+      "level": 19,
+      "ground": {
+        "Drive_DirRotH": 0.0138,
+        "Drift_DirRotH": 0.0217,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.0158,
+        "Float_Drift_DirRotH": 0.0197,
+        "Float_AutoDrift_ChargeRt": 0.6
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.0138,
+        "Drift_DirRotH": 0.0217,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.24,
+        "Wing_StickLR_Move": 0.58
+      }
+    },
+    {
+      "level": 20,
+      "ground": {
+        "Drive_DirRotH": 0.014,
+        "Drift_DirRotH": 0.022,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "water": {
+        "Float_Drive_DirRotH": 0.016,
+        "Float_Drift_DirRotH": 0.02,
+        "Float_AutoDrift_ChargeRt": 0.6
+      },
+      "antiGravity": {
+        "Drive_DirRotH": 0.014,
+        "Drift_DirRotH": 0.022,
+        "AutoDrift_ChargeRt": 0.6
+      },
+      "air": {
+        "Wing_StickLR_Roll": 0.245,
+        "Wing_StickLR_Move": 0.59
+      }
+    }
+  ],
+  "default": {
+    "ground": {
+      "Drive_DirRotH": 0.01,
+      "Drift_DirRotH": 0.018,
+      "AutoDrift_ChargeRt": 1
+    },
+    "water": {
+      "Float_Drive_DirRotH": 0.012,
+      "Float_Drift_DirRotH": 0.016,
+      "Float_AutoDrift_ChargeRt": 1
+    },
+    "antiGravity": {
+      "Drive_DirRotH": 0.012,
+      "Drift_DirRotH": 0.016,
+      "AutoDrift_ChargeRt": 1
+    },
+    "air": {
+      "Wing_StickLR_Roll": 0.2,
+      "Wing_StickLR_Move": 0.5
+    }
+  }
+}

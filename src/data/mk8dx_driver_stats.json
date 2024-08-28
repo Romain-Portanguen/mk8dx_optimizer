@@ -1,0 +1,1044 @@
+{
+  "drivers": [
+    {
+      "name": "Mario",
+      "shortName": "Mro",
+      "stats": {
+        "Weight": 6,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 3,
+        "Ground Speed": 7,
+        "Water Speed": 7,
+        "Anti-Gravity Speed": 7,
+        "Air Speed": 7,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 4,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Luigi",
+      "shortName": "Lig",
+      "stats": {
+        "Weight": 6,
+        "Acceleration": 2,
+        "On-Road traction": 5,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 7,
+        "Water Speed": 7,
+        "Anti-Gravity Speed": 7,
+        "Air Speed": 7,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Peach",
+      "shortName": "Pch",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 3,
+        "On-Road traction": 3,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 6,
+        "Water Speed": 6,
+        "Anti-Gravity Speed": 6,
+        "Air Speed": 6,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Daisy",
+      "shortName": "Dsy",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 3,
+        "On-Road traction": 3,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 6,
+        "Water Speed": 6,
+        "Anti-Gravity Speed": 6,
+        "Air Speed": 6,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Yoshi",
+      "shortName": "Ysi",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 3,
+        "On-Road traction": 3,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 6,
+        "Water Speed": 6,
+        "Anti-Gravity Speed": 6,
+        "Air Speed": 6,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Toad",
+      "shortName": "Kno",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 4,
+        "On-Road traction": 3,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 4,
+        "Ground Handling": 7,
+        "Water Handling": 7,
+        "Anti-Gravity Handling": 7,
+        "Air Handling": 7,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Toadette",
+      "shortName": "Knc",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 4,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 7,
+        "Water Handling": 7,
+        "Anti-Gravity Handling": 7,
+        "Air Handling": 7,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Koopa Troopa",
+      "shortName": "Nok",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 1,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 4,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 8,
+        "Water Handling": 8,
+        "Anti-Gravity Handling": 8,
+        "Air Handling": 8,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Bowser",
+      "shortName": "Kop",
+      "stats": {
+        "Weight": 10,
+        "Acceleration": 0,
+        "On-Road traction": 6,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 0,
+        "Ground Speed": 10,
+        "Water Speed": 10,
+        "Anti-Gravity Speed": 10,
+        "Air Speed": 10,
+        "Ground Handling": 0,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 0,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Donkey Kong",
+      "shortName": "Dkg",
+      "stats": {
+        "Weight": 8,
+        "Acceleration": 1,
+        "On-Road traction": 10,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 1,
+        "Ground Speed": 9,
+        "Water Speed": 9,
+        "Anti-Gravity Speed": 9,
+        "Air Speed": 9,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 2,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Wario",
+      "shortName": "Wro",
+      "stats": {
+        "Weight": 9,
+        "Acceleration": 0,
+        "On-Road traction": 5,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 0,
+        "Ground Speed": 10,
+        "Water Speed": 10,
+        "Anti-Gravity Speed": 10,
+        "Air Speed": 10,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Waluigi",
+      "shortName": "Wlg",
+      "stats": {
+        "Weight": 8,
+        "Acceleration": 1,
+        "On-Road traction": 10,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 1,
+        "Ground Speed": 9,
+        "Water Speed": 9,
+        "Anti-Gravity Speed": 9,
+        "Air Speed": 9,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 2,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Rosalina",
+      "shortName": "Rst",
+      "stats": {
+        "Weight": 7,
+        "Acceleration": 1,
+        "On-Road traction": 9,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 2,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Metal Mario",
+      "shortName": "MroM",
+      "stats": {
+        "Weight": 10,
+        "Acceleration": 1,
+        "On-Road traction": 8,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 1,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Pink Gold Peach",
+      "shortName": "PchG",
+      "stats": {
+        "Weight": 10,
+        "Acceleration": 1,
+        "On-Road traction": 8,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 1,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Lakitu",
+      "shortName": "Jgm",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 1,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 4,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 8,
+        "Water Handling": 8,
+        "Anti-Gravity Handling": 8,
+        "Air Handling": 8,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Shy Guy",
+      "shortName": "Hyh",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 4,
+        "On-Road traction": 3,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 4,
+        "Ground Handling": 7,
+        "Water Handling": 7,
+        "Anti-Gravity Handling": 7,
+        "Air Handling": 7,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Baby Mario",
+      "shortName": "MroB",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 5,
+        "On-Road traction": 2,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 5,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 2,
+        "Ground Handling": 8,
+        "Water Handling": 8,
+        "Anti-Gravity Handling": 8,
+        "Air Handling": 8,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Baby Luigi",
+      "shortName": "LigB",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 5,
+        "On-Road traction": 2,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 5,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 2,
+        "Ground Handling": 8,
+        "Water Handling": 8,
+        "Anti-Gravity Handling": 8,
+        "Air Handling": 8,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Baby Peach",
+      "shortName": "PchB",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 4,
+        "On-Road traction": 3,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 5,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 10,
+        "Water Handling": 10,
+        "Anti-Gravity Handling": 10,
+        "Air Handling": 10,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Baby Daisy",
+      "shortName": "DsyB",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 4,
+        "On-Road traction": 3,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 5,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 10,
+        "Water Handling": 10,
+        "Anti-Gravity Handling": 10,
+        "Air Handling": 10,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Baby Rosalina",
+      "shortName": "RstB",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 5,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 9,
+        "Water Handling": 9,
+        "Anti-Gravity Handling": 9,
+        "Air Handling": 9,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Larry",
+      "shortName": "Lry",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 4,
+        "On-Road traction": 3,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 4,
+        "Ground Handling": 7,
+        "Water Handling": 7,
+        "Anti-Gravity Handling": 7,
+        "Air Handling": 7,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Lemmy",
+      "shortName": "Lmy",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 5,
+        "Ground Speed": 1,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 9,
+        "Water Handling": 9,
+        "Anti-Gravity Handling": 9,
+        "Air Handling": 9,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Wendy",
+      "shortName": "Wdy",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 4,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 7,
+        "Water Handling": 7,
+        "Anti-Gravity Handling": 7,
+        "Air Handling": 7,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Ludwig",
+      "shortName": "Ldw",
+      "stats": {
+        "Weight": 6,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 3,
+        "Ground Speed": 7,
+        "Water Speed": 7,
+        "Anti-Gravity Speed": 7,
+        "Air Speed": 7,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 4,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Iggy",
+      "shortName": "Igy",
+      "stats": {
+        "Weight": 6,
+        "Acceleration": 2,
+        "On-Road traction": 5,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 7,
+        "Water Speed": 7,
+        "Anti-Gravity Speed": 7,
+        "Air Speed": 7,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Roy",
+      "shortName": "Roy",
+      "stats": {
+        "Weight": 8,
+        "Acceleration": 1,
+        "On-Road traction": 10,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 1,
+        "Ground Speed": 9,
+        "Water Speed": 9,
+        "Anti-Gravity Speed": 9,
+        "Air Speed": 9,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 2,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Morton",
+      "shortName": "Mtn",
+      "stats": {
+        "Weight": 10,
+        "Acceleration": 0,
+        "On-Road traction": 6,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 0,
+        "Ground Speed": 10,
+        "Water Speed": 10,
+        "Anti-Gravity Speed": 10,
+        "Air Speed": 10,
+        "Ground Handling": 0,
+        "Water Handling": 0,
+        "Anti-Gravity Handling": 0,
+        "Air Handling": 0,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Mii (medium)",
+      "shortName": "MiiM",
+      "stats": {
+        "Weight": 6,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 3,
+        "Ground Speed": 7,
+        "Water Speed": 7,
+        "Anti-Gravity Speed": 7,
+        "Air Speed": 7,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 4,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Tanooki Mario",
+      "shortName": "MroT",
+      "stats": {
+        "Weight": 5,
+        "Acceleration": 3,
+        "On-Road traction": 7,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 4,
+        "Ground Speed": 6,
+        "Water Speed": 6,
+        "Anti-Gravity Speed": 6,
+        "Air Speed": 6,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Link",
+      "shortName": "Lnk",
+      "stats": {
+        "Weight": 7,
+        "Acceleration": 1,
+        "On-Road traction": 9,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 2,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Villager (male)",
+      "shortName": "Mrb",
+      "stats": {
+        "Weight": 5,
+        "Acceleration": 3,
+        "On-Road traction": 7,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 4,
+        "Ground Speed": 6,
+        "Water Speed": 6,
+        "Anti-Gravity Speed": 6,
+        "Air Speed": 6,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Isabelle",
+      "shortName": "Shz",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 4,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 7,
+        "Water Handling": 7,
+        "Anti-Gravity Handling": 7,
+        "Air Handling": 7,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Cat Peach",
+      "shortName": "PchC",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 5,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 5,
+        "Air Speed": 5,
+        "Ground Handling": 6,
+        "Water Handling": 6,
+        "Anti-Gravity Handling": 6,
+        "Air Handling": 6,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Dry Bowser",
+      "shortName": "KopB",
+      "stats": {
+        "Weight": 9,
+        "Acceleration": 0,
+        "On-Road traction": 5,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 0,
+        "Ground Speed": 10,
+        "Water Speed": 10,
+        "Anti-Gravity Speed": 10,
+        "Air Speed": 10,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Villager (female)",
+      "shortName": "Mrg",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 5,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 5,
+        "Air Speed": 5,
+        "Ground Handling": 6,
+        "Water Handling": 6,
+        "Anti-Gravity Handling": 6,
+        "Air Handling": 6,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Gold Mario",
+      "shortName": "MroG",
+      "stats": {
+        "Weight": 10,
+        "Acceleration": 1,
+        "On-Road traction": 8,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 1,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Dry Bones",
+      "shortName": "Krn",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 5,
+        "On-Road traction": 2,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 5,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 2,
+        "Ground Handling": 8,
+        "Water Handling": 8,
+        "Anti-Gravity Handling": 8,
+        "Air Handling": 8,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Bowser Jr.",
+      "shortName": "KopJ",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 1,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 4,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 8,
+        "Water Handling": 8,
+        "Anti-Gravity Handling": 8,
+        "Air Handling": 8,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "King Boo",
+      "shortName": "Ktr",
+      "stats": {
+        "Weight": 7,
+        "Acceleration": 1,
+        "On-Road traction": 9,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 2,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Inkling Girl",
+      "shortName": "Spg",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 5,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 5,
+        "Air Speed": 5,
+        "Ground Handling": 6,
+        "Water Handling": 6,
+        "Anti-Gravity Handling": 6,
+        "Air Handling": 6,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Inkling Boy",
+      "shortName": "Spb",
+      "stats": {
+        "Weight": 5,
+        "Acceleration": 3,
+        "On-Road traction": 7,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 4,
+        "Ground Speed": 6,
+        "Water Speed": 6,
+        "Anti-Gravity Speed": 6,
+        "Air Speed": 6,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Link (Breath of the Wild)",
+      "shortName": "Lnk",
+      "stats": {
+        "Weight": 7,
+        "Acceleration": 1,
+        "On-Road traction": 9,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 2,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Birdo",
+      "shortName": "Brd",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 3,
+        "On-Road traction": 3,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 6,
+        "Water Speed": 6,
+        "Anti-Gravity Speed": 6,
+        "Air Speed": 6,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Kamek",
+      "shortName": "Kmk",
+      "stats": {
+        "Weight": 6,
+        "Acceleration": 2,
+        "On-Road traction": 5,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 7,
+        "Water Speed": 7,
+        "Anti-Gravity Speed": 7,
+        "Air Speed": 7,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Petey Piranha",
+      "shortName": "Ptp",
+      "stats": {
+        "Weight": 10,
+        "Acceleration": 1,
+        "On-Road traction": 8,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 1,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Wiggler",
+      "shortName": "Wgl",
+      "stats": {
+        "Weight": 8,
+        "Acceleration": 1,
+        "On-Road traction": 10,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 1,
+        "Ground Speed": 9,
+        "Water Speed": 9,
+        "Anti-Gravity Speed": 9,
+        "Air Speed": 9,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 2,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Diddy Kong",
+      "shortName": "Dkd",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 4,
+        "On-Road traction": 2,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 5,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 5,
+        "Air Speed": 5,
+        "Ground Handling": 6,
+        "Water Handling": 6,
+        "Anti-Gravity Handling": 6,
+        "Air Handling": 6,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Funky Kong",
+      "shortName": "Dkf",
+      "stats": {
+        "Weight": 9,
+        "Acceleration": 0,
+        "On-Road traction": 5,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 0,
+        "Ground Speed": 10,
+        "Water Speed": 10,
+        "Anti-Gravity Speed": 10,
+        "Air Speed": 10,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Peachette",
+      "shortName": "Pct",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 3,
+        "On-Road traction": 3,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 6,
+        "Water Speed": 6,
+        "Anti-Gravity Speed": 6,
+        "Air Speed": 6,
+        "Ground Handling": 5,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 5,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Pauline",
+      "shortName": "Pln",
+      "stats": {
+        "Weight": 7,
+        "Acceleration": 1,
+        "On-Road traction": 9,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 2,
+        "Ground Speed": 8,
+        "Water Speed": 8,
+        "Anti-Gravity Speed": 8,
+        "Air Speed": 8,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "accelerationStats": [
+    {
+      "level": 1,
+      "Drive_AccLmtFwd": 0.035,
+      "Drive_SpdKfFwd": 0.0055
+    },
+    {
+      "level": 2,
+      "Drive_AccLmtFwd": 0.04,
+      "Drive_SpdKfFwd": 0.006
+    },
+    {
+      "level": 3,
+      "Drive_AccLmtFwd": 0.045,
+      "Drive_SpdKfFwd": 0.0065
+    },
+    {
+      "level": 4,
+      "Drive_AccLmtFwd": 0.05,
+      "Drive_SpdKfFwd": 0.007
+    },
+    {
+      "level": 5,
+      "Drive_AccLmtFwd": 0.055,
+      "Drive_SpdKfFwd": 0.0075
+    },
+    {
+      "level": 6,
+      "Drive_AccLmtFwd": 0.06,
+      "Drive_SpdKfFwd": 0.008
+    },
+    {
+      "level": 7,
+      "Drive_AccLmtFwd": 0.065,
+      "Drive_SpdKfFwd": 0.0085
+    },
+    {
+      "level": 8,
+      "Drive_AccLmtFwd": 0.07,
+      "Drive_SpdKfFwd": 0.009
+    },
+    {
+      "level": 9,
+      "Drive_AccLmtFwd": 0.075,
+      "Drive_SpdKfFwd": 0.0095
+    },
+    {
+      "level": 10,
+      "Drive_AccLmtFwd": 0.08,
+      "Drive_SpdKfFwd": 0.01
+    },
+    {
+      "level": 11,
+      "Drive_AccLmtFwd": 0.085,
+      "Drive_SpdKfFwd": 0.0105
+    },
+    {
+      "level": 12,
+      "Drive_AccLmtFwd": 0.09,
+      "Drive_SpdKfFwd": 0.011
+    },
+    {
+      "level": 13,
+      "Drive_AccLmtFwd": 0.095,
+      "Drive_SpdKfFwd": 0.0115
+    },
+    {
+      "level": 14,
+      "Drive_AccLmtFwd": 0.1,
+      "Drive_SpdKfFwd": 0.012
+    },
+    {
+      "level": 15,
+      "Drive_AccLmtFwd": 0.105,
+      "Drive_SpdKfFwd": 0.0125
+    },
+    {
+      "level": 16,
+      "Drive_AccLmtFwd": 0.11,
+      "Drive_SpdKfFwd": 0.013
+    },
+    {
+      "level": 17,
+      "Drive_AccLmtFwd": 0.115,
+      "Drive_SpdKfFwd": 0.0135
+    },
+    {
+      "level": 18,
+      "Drive_AccLmtFwd": 0.12,
+      "Drive_SpdKfFwd": 0.014
+    },
+    {
+      "level": 19,
+      "Drive_AccLmtFwd": 0.125,
+      "Drive_SpdKfFwd": 0.015
+    },
+    {
+      "level": 20,
+      "Drive_AccLmtFwd": 0.13,
+      "Drive_SpdKfFwd": 0.016
+    }
+  ],
+  "default": {
+    "Drive_AccLmtFwd": 0.08,
+    "Drive_SpdKfFwd": 0.01
+  }
+}

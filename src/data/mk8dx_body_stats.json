@@ -1,0 +1,789 @@
+{
+  "bodies": [
+    {
+      "name": "Standard Kart",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 3,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Pipe Frame",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 6,
+        "On-Road traction": 3,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 5,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 2,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Mach 8",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 3,
+        "On-Road traction": 2,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 5,
+        "Air Speed": 4,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 2,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Steel Driver",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 1,
+        "On-Road traction": 1,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 3,
+        "Ground Speed": 4,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 0,
+        "Ground Handling": 1,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Cat Cruiser",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 4,
+        "Ground Handling": 4,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 4,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Circuit Special",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 1,
+        "On-Road traction": 3,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 5,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 0,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Tri-Speeder",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 1,
+        "On-Road traction": 1,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 3,
+        "Ground Speed": 4,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 0,
+        "Ground Handling": 1,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Badwagon",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 0,
+        "On-Road traction": 2,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 3,
+        "Ground Speed": 5,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 1,
+        "Ground Handling": 0,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 0,
+        "Invincibility": 7
+      }
+    },
+    {
+      "name": "Prancer",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 3,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Biddybuggy",
+      "alternativeName": "Buggybud",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 7,
+        "On-Road traction": 1,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 7,
+        "Ground Speed": 0,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 1,
+        "Ground Handling": 5,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 4,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Landship",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 6,
+        "On-Road traction": 0,
+        "Off-Road Traction": 6,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 0,
+        "Air Speed": 2,
+        "Ground Handling": 4,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 3,
+        "Invincibility": 2
+      }
+    },
+    {
+      "name": "Sneeker",
+      "alternativeName": "Bounder",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 2,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Sports Coupe",
+      "alternativeName": "Sports Coupé",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 3,
+        "On-Road traction": 2,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 5,
+        "Air Speed": 4,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 2,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Gold Standard",
+      "alternativeName": "Gold Kart",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 2,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Standard Bike",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 5,
+        "On-Road traction": 3,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 5,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Comet",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 4,
+        "Ground Handling": 4,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 4,
+        "Invincibility": 2
+      }
+    },
+    {
+      "name": "Sport Bike",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "The Duke",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 3,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Flame Rider",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 5,
+        "On-Road traction": 3,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 5,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Varmint",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 6,
+        "On-Road traction": 3,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 5,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 2,
+        "Invincibility": 2
+      }
+    },
+    {
+      "name": "Mr. Scooty",
+      "alternativeName": "Mr Scooty",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 7,
+        "On-Road traction": 1,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 7,
+        "Ground Speed": 0,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 1,
+        "Ground Handling": 5,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 4,
+        "Invincibility": 0
+      }
+    },
+    {
+      "name": "Jet Bike",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 2,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Yoshi Bike",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 4,
+        "Ground Handling": 4,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 4,
+        "Invincibility": 2
+      }
+    },
+    {
+      "name": "Standard ATV",
+      "alternativeName": "Standard Quad",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 0,
+        "On-Road traction": 2,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 3,
+        "Ground Speed": 5,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 1,
+        "Ground Handling": 0,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 0,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Wild Wiggler",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 5,
+        "On-Road traction": 3,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 5,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Teddy Buggy",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 5,
+        "On-Road traction": 4,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 4,
+        "Ground Handling": 4,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 4,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "GLA",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 0,
+        "On-Road traction": 2,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 3,
+        "Ground Speed": 5,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 1,
+        "Ground Handling": 0,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 0,
+        "Invincibility": 7
+      }
+    },
+    {
+      "name": "W 25 Silver Arrow",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 5,
+        "On-Road traction": 3,
+        "Off-Road Traction": 5,
+        "Mini-Turbo": 5,
+        "Ground Speed": 2,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "300 SL Roadster",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 4,
+        "On-Road traction": 3,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Blue Falcon",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 3,
+        "On-Road traction": 1,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 3,
+        "Ground Handling": 2,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 1,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "Tanooki Kart",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 7,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 4
+      }
+    },
+    {
+      "name": "B Dasher",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 1,
+        "On-Road traction": 3,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 5,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 0,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "Master Cycle",
+      "stats": {
+        "Weight": 2,
+        "Acceleration": 2,
+        "On-Road traction": 1,
+        "Off-Road Traction": 0,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 3,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 2,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Streetle",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 6,
+        "On-Road traction": 0,
+        "Off-Road Traction": 6,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 0,
+        "Air Speed": 2,
+        "Ground Handling": 4,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "P-Wing",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 1,
+        "On-Road traction": 3,
+        "Off-Road Traction": 1,
+        "Mini-Turbo": 3,
+        "Ground Speed": 5,
+        "Water Speed": 1,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 2,
+        "Ground Handling": 1,
+        "Water Handling": 1,
+        "Anti-Gravity Handling": 2,
+        "Air Handling": 0,
+        "Invincibility": 6
+      }
+    },
+    {
+      "name": "City Tripper",
+      "stats": {
+        "Weight": 1,
+        "Acceleration": 6,
+        "On-Road traction": 3,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 6,
+        "Ground Speed": 2,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 1,
+        "Air Speed": 1,
+        "Ground Handling": 5,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 2,
+        "Invincibility": 2
+      }
+    },
+    {
+      "name": "Bone Rattler",
+      "stats": {
+        "Weight": 4,
+        "Acceleration": 1,
+        "On-Road traction": 1,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 3,
+        "Ground Speed": 4,
+        "Water Speed": 5,
+        "Anti-Gravity Speed": 2,
+        "Air Speed": 0,
+        "Ground Handling": 1,
+        "Water Handling": 5,
+        "Anti-Gravity Handling": 1,
+        "Air Handling": 1,
+        "Invincibility": 5
+      }
+    },
+    {
+      "name": "Koopa Clown",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 7,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Splat Buggy",
+      "stats": {
+        "Weight": 0,
+        "Acceleration": 3,
+        "On-Road traction": 1,
+        "Off-Road Traction": 3,
+        "Mini-Turbo": 4,
+        "Ground Speed": 4,
+        "Water Speed": 2,
+        "Anti-Gravity Speed": 4,
+        "Air Speed": 3,
+        "Ground Handling": 2,
+        "Water Handling": 3,
+        "Anti-Gravity Handling": 5,
+        "Air Handling": 1,
+        "Invincibility": 3
+      }
+    },
+    {
+      "name": "Inkstriker",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 3,
+        "On-Road traction": 2,
+        "Off-Road Traction": 4,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 3,
+        "Anti-Gravity Speed": 5,
+        "Air Speed": 4,
+        "Ground Handling": 2,
+        "Water Handling": 2,
+        "Anti-Gravity Handling": 4,
+        "Air Handling": 2,
+        "Invincibility": 1
+      }
+    },
+    {
+      "name": "Master Cycle Zero",
+      "stats": {
+        "Weight": 3,
+        "Acceleration": 2,
+        "On-Road traction": 4,
+        "Off-Road Traction": 7,
+        "Mini-Turbo": 5,
+        "Ground Speed": 3,
+        "Water Speed": 4,
+        "Anti-Gravity Speed": 3,
+        "Air Speed": 3,
+        "Ground Handling": 4,
+        "Water Handling": 4,
+        "Anti-Gravity Handling": 3,
+        "Air Handling": 3,
+        "Invincibility": 3
+      }
+    }
+  ]
+}
